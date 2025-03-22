@@ -1,0 +1,4 @@
+platformscript.py
+.env
+*.pyc
+__pycache__/
